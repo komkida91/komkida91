@@ -23,12 +23,71 @@ automating infrastructure and building reliable CI/CD pipelines across multiple 
 
 ## 🏢 &nbsp;Professional Experience
 
-| Period | Company | Role | Stack |
-|:------:|---------|------|-------|
-| **Oct 2025 → Present** | **T-Systems** | DevOps Engineer | AWS · Docker · K8s · Ansible · Terraform · GitHub Actions · GitLab |
-| **Feb 2025 → Sep 2025** | **Capitole** | DevOps Engineer | AWS · GitHub Actions · GitLab · Data Processing Infra |
-| **Aug 2024 → Jan 2025** | **Scalian** | DevOps Engineer | Jenkins · Docker · K8s · Groovy · Embedded Systems |
-| **Apr 2023 → Apr 2024** | **Win Systems** | DevOps Engineer | Jenkins · Prometheus · Grafana · Artifactory · NuGet |
+<table>
+<tr>
+<td>
+
+### T-Systems Iberia &nbsp;·&nbsp; DevOps Engineer &nbsp;`Oct 2025 → Present`
+
+- Designed and maintained **cloud infrastructure on AWS** for enterprise clients, ensuring high availability and scalability
+- Built and managed **CI/CD pipelines** using GitHub Actions and GitLab CI for multi-team delivery workflows
+- Automated infrastructure provisioning with **Terraform** and **Ansible**, reducing manual setup by 80%
+- Orchestrated containerized workloads on **Kubernetes** (EKS), managing Helm charts and cluster operations
+- Implemented **GitOps workflows with FluxCD**, enabling declarative deployments and drift detection
+- Deployed **Mondoo security operator** for continuous compliance scanning (CIS, SOC2, ISO 27001)
+- Collaborated with cross-functional teams using **Jira** for sprint planning and incident tracking
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white) ![Mondoo](https://img.shields.io/badge/Mondoo-5C4EE5?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td>
+
+### Capitole Consulting &nbsp;·&nbsp; DevOps Engineer &nbsp;`Feb 2025 → Sep 2025`
+
+- Built and maintained **AWS cloud infrastructure** for large-scale data processing workloads
+- Designed **automation pipelines** with GitHub Actions and GitLab CI, improving release frequency and reliability
+- Managed infrastructure as code using **Terraform**, creating reusable modules across environments
+- Configured monitoring and alerting for production systems ensuring SLA compliance
+- Contributed to **architecture reviews** and cloud cost optimization initiatives
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td>
+
+### Scalian &nbsp;·&nbsp; DevOps Engineer &nbsp;`Aug 2024 → Jan 2025`
+
+- Designed and maintained **CI/CD pipelines with Jenkins** for QA and testing teams, using Groovy scripting for pipeline-as-code
+- Containerized applications with **Docker** and orchestrated deployments on **Kubernetes** clusters
+- Deployed software to **embedded systems** (industrial ovens and refrigerators) — bridging DevOps with IoT
+- Automated testing workflows, reducing feedback loops and accelerating release cycles
+- Wrote technical documentation for pipeline setup and troubleshooting guides
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td>
+
+### Win Systems &nbsp;·&nbsp; DevOps Engineer &nbsp;`Apr 2023 → Apr 2024`
+
+- Built and maintained **CI/CD pipelines with Jenkins** for gaming and lottery platform deployments across Windows and Linux
+- Implemented comprehensive **monitoring and observability** with Prometheus and Grafana dashboards for production systems
+- Managed artifact repositories using **Artifactory** and **NuGet**, ensuring versioned and traceable releases
+- Supported both **Windows Server and Linux** environments, handling deployments on heterogeneous infrastructure
+- Collaborated with development teams to define branching strategies and release workflows
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Artifactory](https://img.shields.io/badge/Artifactory-41BF47?style=flat-square&logo=jfrog&logoColor=white) ![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+</td>
+</tr>
+</table>
+</table>
 
 ---
 
