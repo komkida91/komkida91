@@ -9,7 +9,7 @@
 # Gustavo Kaechele
 ### DevOps Engineer | Cloud & Automation
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=%E2%98%81%EF%B8%8F+Kubernetes+%7C+Terraform+%7C+CI%2FCD+%7C+AWS+%7C+Azure+%7C+GitOps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=%E2%98%81%EF%B8%8F+Kubernetes+%7C+Terraform+%7C+CI%2FCD+%7C+AWS+%7C+GitOps" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -19,8 +19,7 @@ automating infrastructure and building reliable CI/CD pipelines across multiple 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-kachele-3b1b63127)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavokachele@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gustavo-kaechele.gkaechele.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavokachele@gmail.com)
 
 </div>
 
