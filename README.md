@@ -6,6 +6,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=200&section=header&text=Gustavo%20Kaechele&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation&descSize=20&descColor=58A6FF&descAlignY=55&animation=fadeIn" />
 </picture>
 
+# Gustavo Kaechele
+### DevOps Engineer | Cloud & Automation
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=%E2%98%81%EF%B8%8F+Kubernetes+%7C+Terraform+%7C+CI%2FCD+%7C+AWS+%7C+Azure+%7C+GitOps" alt="Typing SVG" /></a>
 
 <br/>
