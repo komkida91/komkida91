@@ -1,10 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=Gustavo%20Kaechele&fontSize=40&fontColor=FFFFFF&fontAlignY=32&desc=DevOps%20Engineer&descSize=18&descColor=58A6FF&descAlignY=52&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:E8F0FE,100:1A6DD4&height=180&section=header&text=Gustavo%20Kaechele&fontSize=40&fontColor=0D1117&fontAlignY=32&desc=DevOps%20Engineer&descSize=18&descColor=1A6DD4&descAlignY=52&animation=fadeIn" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=Gustavo%20Kaechele&fontSize=40&fontColor=FFFFFF&fontAlignY=32&desc=DevOps%20Engineer&descSize=18&descColor=58A6FF&descAlignY=52&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=header" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:E8F0FE,100:1A6DD4&height=120&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=header" />
 </picture>
+
+# 👋 &nbsp;Gustavo Kaechele
+
+### DevOps Engineer
 
 <br/>
 
@@ -256,23 +260,6 @@ Monitoring stack for **Raspberry Pi** — collecting system metrics and visualiz
 </table>
 
 ---
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=komkida91&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=komkida91&show_icons=true&hide_border=true&title_color=1A6DD4&icon_color=1A6DD4" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=komkida91&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=komkida91&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=komkida91&hide_border=true&ring=1A6DD4&fire=1A6DD4&currStreakLabel=1A6DD4" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=komkida91&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=555555" />
-</picture>
-
-</div>
 
 ---
 
